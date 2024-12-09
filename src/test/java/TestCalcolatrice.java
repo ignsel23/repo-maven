@@ -1,8 +1,8 @@
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Assert;
 
-import junit.framework.Assert;
+import org.junit.Test;
 
 class TestCalcolatrice {
 
