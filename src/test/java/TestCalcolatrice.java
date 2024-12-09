@@ -25,4 +25,13 @@ class TestCalcolatrice {
 		
 		Assert.assertEquals(11,res,0);
 	}
+	@Test
+	void testSomma3() 
+	{
+		Calcolatrice c = new Calcolatrice();
+		
+		double res = c.somma(8,6);
+		
+		Assert.assertEquals(11,res,0);
+	}
 }
