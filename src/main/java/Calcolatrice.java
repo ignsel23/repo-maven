@@ -6,7 +6,7 @@ public class Calcolatrice
 		double s=0;
 		for(double addendo : addendi)
 		{
-			s = s + Math.abs(addendo); 
+			s = s + addendo; //Math.abs(addendo); 
 		}
 		return s;		
 	}
