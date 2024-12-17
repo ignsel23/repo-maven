@@ -23,7 +23,8 @@
         <artifactId>junit-jupiter</artifactId>
         <version>5.10.0</version> <!-- Sostituisci con la versione più recente -->
         <scope>test</scope>
-    </dependency>
+    	</dependency>
+    	
 </dependencies>
 
 <build>
